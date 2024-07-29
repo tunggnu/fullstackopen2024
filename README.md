@@ -1,2 +1,2 @@
-# fullstackopen2024
-My answers to the exercises of the Fullstack Open 2024 courses
+# Fullstack Open 2024 Course
+My answers to the exercises of the Fullstack Open 2024 course
